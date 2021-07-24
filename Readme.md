@@ -1,3 +1,4 @@
+[Notebook link BERT](https://github.com/AIsquare/BERT-on-AWS/blob/main/BERT%20feature%20engineering%20at%20scale.ipynb) 
 # RoBERTa
 
 Built on top of BERT model but it modifies the hyperparameter and the way model is trained. It also uses a lot more training data than BERT model.
